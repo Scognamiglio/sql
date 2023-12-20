@@ -1,0 +1,16 @@
+{
+  "name": "zhen/sql",
+  "version": "1.0.0",
+  "description": "Classe factorisé pour la bdd",
+  "authors": [
+    {
+      "name": "Scognamiglio",
+      "email": "loic.scognamiglio16@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sql\\": "src/"
+    }
+  }
+}
